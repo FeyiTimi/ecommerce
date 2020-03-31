@@ -1,2 +1,2 @@
-# ecommerce
-multi vendor ecommerce
+# CanineTrade
+Pet Adoption Platorm
